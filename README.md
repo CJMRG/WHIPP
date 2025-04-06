@@ -1,16 +1,16 @@
 # WHIPP
-[![Build Status](https://github.com/diowa/icare/actions/workflows/ci.yml/badge.svg)](https://github.com/diowa/icare/actions) [![Maintainability](https://api.codeclimate.com/v1/badges/b5c7bd31597d298a5d6e/maintainability)](https://codeclimate.com/github/diowa/icare/maintainability) [![Coverage Status](https://coveralls.io/repos/diowa/icare/badge.svg?branch=main)](https://coveralls.io/r/diowa/icare?branch=main)
+[![Build Status](https://github.com/CJRMG/actions/workflows/ci.yml/badge.svg)](https://github.com/diowa/icare/actions) [![Maintainability](https://api.codeclimate.com/v1/badges/b5c7bd31597d298a5d6e/maintainability)](https://codeclimate.com/github/diowa/icare/maintainability) [![Coverage Status](https://coveralls.io/reposCJRMG/badge.svg?branch=main)](https://coveralls.io/r/diowa/icare?branch=main)
 
-[![Gitter](https://badges.gitter.im/diowa/icare.svg)](https://gitter.im/diowa/icare?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![Gitter](https://badges.gitter.im/CJRMG.svg)](https://gitter.im/diowa/icare?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-**icare** is an open source [carpooling](https://en.wikipedia.org/wiki/Carpool) platform used as a basis for our commercial product [Company Carpool](https://www.companycarpool.com).
+WHIPP is an open source [carpooling](https://en.wikipedia.org/wiki/Carpool) platform used as a basis for our commercial product
 
 Carpooling (also known as car-sharing, ride-sharing, lift-sharing and covoiturage), is the sharing of car journeys so that more than one person travels in a car.
 By having more people using one vehicle, carpooling reduces each person’s travel costs such as fuel costs, tolls, and the stress of driving. Carpooling is also seen as a more environmentally friendly and sustainable way to travel as sharing journeys reduces carbon emissions, traffic congestion on the roads, and the need for parking spaces. Authorities often encourage carpooling, especially during high pollution periods and high fuel prices. (From Wikipedia)
 
-**icare** uses the following technologies:
+WHIPP uses the following technologies:
 
 * [Ruby on Rails][:rails_url]
 * [PostgreSQL][:postgresql]
@@ -31,16 +31,16 @@ By having more people using one vehicle, carpooling reduces each person’s trav
 
 ## Name and logo
 
-**icare** name and logo are temporary. **icare** is a portmanteau of "I care", "Car" and "Environment". No copyright violation is intended.
+**WHIPP** name and logo are temporary.". No copyright violation is intended.
 
 ## Roadmap
 
-Immediate: Check out our [To Do](https://github.com/diowa/icare/wiki/To-Do) list.
+Immediate: Check out our [To Do](https://github.com/CJRMG/To-Do) list.
 Long-term: TODO
 
 ## Internationalization (i18n)
 
-**icare** uses standard [Rails Internationalization (I18n) API](https://guides.rubyonrails.org/i18n.html). If you translated **icare** in your own language, make a pull request.
+**WHIPP** uses standard [Rails Internationalization (I18n) API](https://guides.rubyonrails.org/i18n.html). If you translated **WHIPP** in your own language, make a pull request.
 
 ## Contributing
 
@@ -50,7 +50,7 @@ More over, if your pull request contains patches or features, you must include r
 
 Editor preferences are available in the [editor config](.editorconfig) for easy use in common text editors. Read more and download plugins at <https://editorconfig.org>.
 
-If you are interested in feature development, we have priorities. Check out our [To Do](https://github.com/diowa/icare/wiki/To-Do) list.
+If you are interested in feature development, we have priorities. Check out our [To Do](https://github.com/CJRMG /To-Do) list.
 
 ## Authors
 
@@ -110,7 +110,7 @@ icare will be accessible on `https://localhost:3443`
 
 If you like this project or you are considering to use it (or any part of it) for commercial purposes, please make a donation to the authors.
 
-[![Donate once-off to this project using Bitcoin](https://img.shields.io/badge/bitcoin-donate-blue.svg)](bitcoin:1L6sqoG8xXhYziH9NGjPzgR1dEP2SbJrfM)
+[![Donate once-off to this project using CRYPTOCURRENCY](cryptocurrency:0x766eaf27492e8a4d848f95ff8fa1dccbb1063429
 
 [:airbrake_url]: https://github.com/airbrake/airbrake
 [:auth0_url]: https://auth0.com/
