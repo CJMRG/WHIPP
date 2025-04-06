@@ -1,4 +1,4 @@
-# icare
+# WHIPP
 [![Build Status](https://github.com/diowa/icare/actions/workflows/ci.yml/badge.svg)](https://github.com/diowa/icare/actions) [![Maintainability](https://api.codeclimate.com/v1/badges/b5c7bd31597d298a5d6e/maintainability)](https://codeclimate.com/github/diowa/icare/maintainability) [![Coverage Status](https://coveralls.io/repos/diowa/icare/badge.svg?branch=main)](https://coveralls.io/r/diowa/icare?branch=main)
 
 [![Gitter](https://badges.gitter.im/diowa/icare.svg)](https://gitter.im/diowa/icare?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
