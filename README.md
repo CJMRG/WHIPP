@@ -91,7 +91,7 @@ openssl req -subj '/CN=localhost' -x509 -newkey rsa:4096 -nodes -keyout docker/n
 openssl genpkey -genparam -algorithm DH -out docker/nginx/ssl/app_dhparam4096.pem -pkeyopt dh_paramgen_prime_len:4096
 ```
 
-Copy `docker/icare/variables.env.example` to `docker/icare/variables.env` and
+Copy `docker/CJRMG/variables.env.example` to `docker/CJRMG/variables.env` and
 run `docker compose up`
 
 icare will be accessible on `https://localhost:3443`
